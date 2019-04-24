@@ -1,0 +1,57 @@
+<html>
+<head>
+    <title>Nailah's favorite things</title>
+</head>
+<body>
+<h1 id="top"> These are my favorite things </h1>
+
+<a href="My Movies"> My Movies</a><br/>
+<a href="My Foods">My Foods</a><br/>
+<a href="My Shows">My Shows</a><br/>
+<a href="My Music">My Music</a><br/>
+
+<br>
+<h2>
+    My Movies
+
+</h2>
+<ol>
+    <li> Silence of The Lambs</li>
+    <li> Mean Girls </li>
+    <li> Eve's Bayou </li>
+    <li> Harry Potter (the entire series) </li>
+    <li> Love Jones </li>
+</ol>
+
+<h2>
+    My Foods
+</h2>
+<ol>
+    <li> Pasta</li>
+    <li> Lemon Heads </li>
+    <li> Macaroni and Cheese </li>
+    <li> French Toast </li>
+    <li> Grapes</li>
+</ol>
+<h2>
+    My Shows
+</h2>
+<ol>
+    <li> This is Us</li>
+    <li> Grey's Anatomy </li>
+    <li> Being Mary Jane</li>
+    <li> Queer Eye</li>
+    <li> Beyond Scared Straight</li>
+</ol>
+<h2>
+    My Music
+</h2>
+<ol>
+    <li> 90's R&B</li>
+    <li> Neo-soul</li>
+    <li>R&B</li>
+    <li> Hip-Hop</li>
+    <li> Pop </li>
+</ol>
+<a href="top">Top</a>
+</body>
